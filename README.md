@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm <u>Oumaima</u>
+I'm <u>Oumaima</u> **oumaima**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
