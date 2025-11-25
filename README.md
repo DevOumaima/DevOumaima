@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devoumaima&label=Profile%20views&color=0e75b6&style=flat" alt="devoumaima" /> </p>
 
-🌱 I’m diving into **Ruby, C and Haskell**
+- 🌱 I’m diving into **Ruby, C and Haskell**
 - 💬 feel free to ask me about **javaScript or python**
 - 📫 contact me for **websit development for your project or business**
 
