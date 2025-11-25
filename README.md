@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=1B5E3A&lines=Hi+There!+👋;+I'm+Oumaima!+:D;" /></h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=6DC3BB&lines=Hi+There!+👋;+I'm+Oumaima!+:D;" /></h1>
 
 <h3 align="center">A designer, math enthusiast, and a software developer frome Morocco 🇲🇦</h3>
 
