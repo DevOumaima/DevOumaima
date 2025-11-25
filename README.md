@@ -17,7 +17,7 @@
 <br/>
 <div align="center">
 
-  In my free time, I enjoy **coding**, **reading**, and **learning about new technologies**. I'm also passionate about **open-source software** and contributing to the community. <br/>
+  In my free time, I enjoy **coding**, **reading**, and **learning about new technologies**. I'm also passionate about **open-source software**, and contributing to the community. <br/>
   
   Feel free to contact me on Email: `taousomayma99@gmail.com`
 </div>
